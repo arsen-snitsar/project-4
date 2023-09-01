@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6e86d32-e228-4419-9852-c865af2d5470" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part4.java" afterDir="false" />
+    <list default="true" id="f6e86d32-e228-4419-9852-c865af2d5470" name="Changes" comment="Completed 1.1 + 1.2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part1/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part1/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1/Task5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +44,26 @@
     "last_opened_file_path": "/media/arsen/E3E9-FD8C/auk/programming-principles/project-3/src/Part1IfElseAndSwitch/Task1.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part1.Task5" />
+      <module name="project-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task5" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1693592793444</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed 1.1 + 1.2">
+      <option name="closed" value="true" />
+      <created>1693595872955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693595872955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed 1.1 + 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed 1.1 + 1.2" />
   </component>
 </project>

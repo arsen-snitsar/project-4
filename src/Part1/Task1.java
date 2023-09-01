@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /*
 ===========================================================================
-                              WHILE LOOP
+                         Demonstrate while loop.
 ===========================================================================
  */
 
@@ -17,21 +17,18 @@ public class Task1 {
     public static void main(String[] args) {
         long x;
         Scanner keyboard = new Scanner(System.in);
-        System.out.print("Enter x: ");
+        System.out.print("Please, enter x: ");
         x = keyboard.nextLong();
 
+        System.out.print("x = " + x + ": ");
         while (x != 1){
+            System.out.print(x + ", ");
 
             if (x % 2 == 0)
                 x /= 2;
             else
                 x = 3 * x + 1;
-
-            if (x == 1)
-                System.out.print(x);
-            else
-                System.out.print(x + ", ");
-
         }
+        System.out.print(x);
     }
 }

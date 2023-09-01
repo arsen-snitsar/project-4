@@ -12,11 +12,12 @@ public class Task2 {
     public static void main(String[] args) {
 
         Random random = new Random();
-        int biggest = 1, x = random.nextInt(biggest + 1), smallest = 0, guess = - 1;
+        int biggest = 50, x = random.nextInt(biggest + 1), smallest = 0, guess;
         Scanner keyboard = new Scanner(System.in);
         do {
             System.out.print("Try to guess my number: (" + smallest + "-" + biggest + ")\n");
             guess = keyboard.nextInt();
+            System.out.println(guess);
             if (guess < x) {
                 System.out.println("Too small!");
                 if (guess >= smallest)
