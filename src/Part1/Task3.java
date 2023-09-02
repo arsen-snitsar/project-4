@@ -22,7 +22,7 @@ public class Task3 {
         // 2)
         for (int i = 10; i > 0; i--) {
             if (i == 1)
-                System.out.printf("%2d\n", i);
+                System.out.printf("%2d", i);
             else
                 System.out.printf("%2d, ", i);
         }

@@ -23,7 +23,10 @@ public class Task5 {
                 else
                     x = 3 * x + 1;
             }
-            System.out.println(x);
+            if (i == 100)
+                System.out.print(x);
+            else
+                System.out.println(x);
         }
     }
 }
