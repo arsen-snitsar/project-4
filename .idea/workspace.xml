@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6e86d32-e228-4419-9852-c865af2d5470" name="Changes" comment="Completed 1.3 + 1.4 + 1.5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part1/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3.java" afterDir="false" />
+    <list default="true" id="f6e86d32-e228-4419-9852-c865af2d5470" name="Changes" comment="Completed Part 2 and Part 3">
+      <change beforePath="$PROJECT_DIR$/src/Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/media/arsen/E3E9-FD8C/auk/programming-principles/project-3/src/Part1IfElseAndSwitch/Task1.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/media/arsen/E3E9-FD8C/auk/programming-principles/project-3/src/Part3ImprovedConversation/ImprovedConversation.java"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Part1.Task5" />
@@ -88,12 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693598979006</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed Part 2 and Part 3">
+      <option name="closed" value="true" />
+      <created>1693635865451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693635865451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed 1.1 + 1.2" />
     <MESSAGE value="Completed 1.3 + 1.4 + 1.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed 1.3 + 1.4 + 1.5" />
+    <MESSAGE value="Completed Part 2 and Part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Part 2 and Part 3" />
   </component>
 </project>
