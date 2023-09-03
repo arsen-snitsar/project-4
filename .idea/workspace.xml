@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6e86d32-e228-4419-9852-c865af2d5470" name="Changes" comment="Completed Part 2 and Part 3">
-      <change beforePath="$PROJECT_DIR$/src/Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part4.java" afterDir="false" />
-    </list>
+    <list default="true" id="f6e86d32-e228-4419-9852-c865af2d5470" name="Changes" comment="Part 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,13 +90,22 @@
       <option name="project" value="LOCAL" />
       <updated>1693635865451</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Part 4">
+      <option name="closed" value="true" />
+      <created>1693648518510</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693648518510</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed 1.1 + 1.2" />
     <MESSAGE value="Completed 1.3 + 1.4 + 1.5" />
     <MESSAGE value="Completed Part 2 and Part 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Part 2 and Part 3" />
+    <MESSAGE value="Part 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 4" />
   </component>
 </project>

@@ -17,7 +17,6 @@ public class Task2 {
         do {
             System.out.print("Try to guess my number: (" + smallest + "-" + biggest + ")\n");
             guess = keyboard.nextInt();
-            System.out.println(guess);
             if (guess < x) {
                 System.out.println("Too small!");
                 if (guess >= smallest)
