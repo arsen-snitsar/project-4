@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6e86d32-e228-4419-9852-c865af2d5470" name="Changes" comment="Part 4" />
+    <list default="true" id="f6e86d32-e228-4419-9852-c865af2d5470" name="Changes" comment="Removed an unnescesary statement in Task 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,15 +32,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/media/arsen/E3E9-FD8C/auk/programming-principles/project-3/src/Part3ImprovedConversation/ImprovedConversation.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/arsen/E3E9-FD8C/auk/programming-principles/project-3/src/Part3ImprovedConversation/ImprovedConversation.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
+    <configuration name="ImprovedConversation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3ImprovedConversation.ImprovedConversation" />
+      <module name="project-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part3ImprovedConversation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Part1.Task5" />
       <module name="project-4" />
@@ -98,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693648518510</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Removed an unnescesary statement in Task 2">
+      <option name="closed" value="true" />
+      <created>1693717095195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693717095195</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,6 +130,7 @@
     <MESSAGE value="Completed 1.3 + 1.4 + 1.5" />
     <MESSAGE value="Completed Part 2 and Part 3" />
     <MESSAGE value="Part 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Part 4" />
+    <MESSAGE value="Removed an unnescesary statement in Task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed an unnescesary statement in Task 2" />
   </component>
 </project>
